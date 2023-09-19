@@ -1,0 +1,6 @@
+AIP:
+
+* Requires client to install AIP Viewer
+* Classification of documents can be automated from specific keywords in the document
+
+Netskope integrates with MIP and VERA but no usecase with Outlook.
