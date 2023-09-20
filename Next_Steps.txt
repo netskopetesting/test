@@ -1,0 +1,23 @@
+Stage - 1 -> To be done by 09/14
+
+Requirements Table - Usecase Name , Desc, Example, MustHave, GoodtoHave
+
+Table With Products and what requirements are being met, where there are gaps 
+
+
+
+
+Stage - 2 -> To be done by 09/15
+
+List down 5-6 High level statements for Miicrosoft capabilities...for example,  Does MS support watermarking?, 
+Does MS support tracking?
+
+Stage - 3
+
+Microsoft testing and filing up the table:
+
+E5 Security License - Trial License for Microsoft AIP and IRM/MIP
+
+Compare Solutions which require investment in Infra vs Little Infra vs No Infra and specify the pros and cons
+
+Conclusion - Conclude based on the comparison. 
